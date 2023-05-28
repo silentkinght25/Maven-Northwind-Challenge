@@ -23,3 +23,5 @@ orders.csv
 products.csv
 shippers.csv.
 Data_Dictionary.csv file contains detailed the description of each column. 
+
+For more details, please visit https://mavenanalytics.io/challenges/maven-northwind-challenge/24
