@@ -11,3 +11,7 @@ Product performance
 Key customers
 Shipping costs
 The dashboard should be built to evolve and accommodate new data over time, but you've been encouraged by your manager to have insights & recommendations ready to share with the VPs. This is your chance to impress!
+
+
+Below are the dataset are provided: categories.csv, customers.csv, data_dictionary.csv, employees.csv, order_details.csv, orders.csv, products.csv, shippers.csv.
+Data_Dictionary.csv file contains detailed the description of each column. 
